@@ -1,4 +1,4 @@
 package org.ciaf.ejemploclasefutura;
 
-public class EjemploDos {
+public class ClaseMaster {
 }
