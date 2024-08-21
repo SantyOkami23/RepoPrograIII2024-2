@@ -1,0 +1,16 @@
+cameltoy es la primer letra siempre en mayuscula
+
+Atajos
+
+- soutv muestra la variable
+-demonio de gradle una vez iniciado no se pueden matar
+-instancia ya sea humana u onjeto
+-no poner varias clases en un solo archivo por buenas practicas y una buena arquitectura cliente servidor
+-revisar siempre la ruta
+-Scanner es la clase instancia es sc
+-operador terniario (?)
+-constructor envia datos mediante el metodo elegido
+-dividir el codigo en pequeños metodos y diferentes clases
+-try y catch control de serciones se entra al try y analiza i todo paso bien y catch captura los errores y
+crea otra variable
+
