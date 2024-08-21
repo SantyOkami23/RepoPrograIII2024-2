@@ -4,6 +4,21 @@ import java.util.Scanner;
 
 public class EjemploExpresionesAreaCirculo10 {
     private double radio;
+    private double perimetro;
+
+    public EjemploExpresionesAreaCirculo10(double perimetro, double largo) {
+        this.perimetro = perimetro;
+        this.largo = largo;
+    }
+
+    private double largo;
+
+    public EjemploExpresionesAreaCirculo10(double radio, double perimetro, double largo) {
+        this.radio = radio;
+        this.perimetro = perimetro;
+        this.largo = largo;
+    }
+
     public EjemploExpresionesAreaCirculo10(double radio) {
         this.radio = radio;
     }
