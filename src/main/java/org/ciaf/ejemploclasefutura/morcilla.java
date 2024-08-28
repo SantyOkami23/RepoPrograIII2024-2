@@ -1,2 +1,4 @@
-package org.ciaf.ejemploclasefutura;public class morcilla {
+package org.ciaf.ejemploclasefutura;
+
+public class morcilla {
 }
