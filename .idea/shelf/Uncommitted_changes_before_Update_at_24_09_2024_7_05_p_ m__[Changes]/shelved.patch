@@ -1,0 +1,17 @@
+Index: src/main/java/org/ciaf/ejerciciosherencia/ejerciciotres/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.ciaf.ejerciciosherencia.ejerciciotres;\r\n\r\nimport org.ciaf.ejerciciosherencia.ejerciciouno.Formato;\r\nimport org.ciaf.ejerciciosherencia.ejerciciouno.Multimedia;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n\r\n        // Crear una lista de Multimedia con capacidad de 3 elementos\r\n        ListaMultimedia lista = new ListaMultimedia(3);\r\n\r\n        // Crear algunos objetos Multimedia\r\n        Multimedia multimedia1 = new Multimedia(\"Canción 1\", \"Autor 1\", Formato.MP3, 3.5);\r\n        Multimedia multimedia2 = new Multimedia(\"Película 1\", \"Director 1\", Formato.AVI, 120.0);\r\n        Multimedia multimedia3 = new Multimedia(\"Canción 2\", \"Autor 2\", Formato.WAV, 4.0);\r\n\r\n        // Añadir elementos a la lista\r\n        lista.add(multimedia1);\r\n        lista.add(multimedia2);\r\n        lista.add(multimedia3);\r\n\r\n        // Intentar añadir más elementos de la capacidad máxima\r\n        Multimedia multimediaExtra = new Multimedia(\"Canción 3\", \"Autor 3\", Formato.MIDI, 3.0);\r\n        boolean added = lista.add(multimediaExtra);\r\n        System.out.println(\"¿Elemento extra añadido?: \" + added);  // Debería ser false\r\n\r\n        // Mostrar el contenido de la lista\r\n        System.out.println(\"Contenido de la lista:\");\r\n        System.out.println(lista.toString());\r\n\r\n        // Obtener un elemento por su posicion\r\n        Multimedia item = lista.get(1);  // Debería devolver \"Pelicula 1\"\r\n        System.out.println(\"Elemento en la posición 1: \" + item);\r\n\r\n        // Probar excepción al pedir un índice fuera de los límites\r\n        try {\r\n            lista.get(5);  // iNDICE INVALIDO\r\n        } catch (IndexOutOfBoundsException e) {\r\n            System.out.println(\"Excepción capturada: \" + e.getMessage());\r\n        }\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/main/java/org/ciaf/ejerciciosherencia/ejerciciotres/Main.java b/src/main/java/org/ciaf/ejerciciosherencia/ejerciciotres/Main.java
+--- a/src/main/java/org/ciaf/ejerciciosherencia/ejerciciotres/Main.java	(revision 56444065659648eb3af7b601a4a2971776bdff2f)
++++ b/src/main/java/org/ciaf/ejerciciosherencia/ejerciciotres/Main.java	(date 1726019911808)
+@@ -34,7 +34,7 @@
+ 
+         // Probar excepción al pedir un índice fuera de los límites
+         try {
+-            lista.get(5);  // iNDICE INVALIDO
++            lista.get(0);  // iNDICE INVALIDO
+         } catch (IndexOutOfBoundsException e) {
+             System.out.println("Excepción capturada: " + e.getMessage());
+         }
