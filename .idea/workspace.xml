@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06d6d91-e7a3-4373-82bc-006cea07580d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/jorge/ClaseEmpleado/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/jorge/ClaseProductos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/jorge/ClaseProductos/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +93,7 @@
     "Gradle.RepoPrograIII2024-2 [:SistemaTransporte.SistemaTransporte.main()].executor": "Run",
     "Gradle.RepoPrograIII2024-2 [:org.ciaf.clasearreglos03.EjemploArrayList04.main()].executor": "Run",
     "Gradle.RepoPrograIII2024-2 [:org.ciaf.claseherencia05.ejemplo3.Main.main()].executor": "Run",
+    "Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.ClaseProductos.Main.main()].executor": "Run",
     "Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.CuentaBancarias.Banco.main()].executor": "Run",
     "Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.estadisticasdepersonajes.Main.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,7 +103,7 @@
     "last_opened_file_path": "C:/Users/JP/Documents/PROGRAMACION EJERCICIOS/estadisticas de personajes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Banco">
+  <component name="RunManager" selected="Application.org.ciaf.jorge.ClaseProductos.Main">
     <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ciaf.jorge.CuentaBancarias.Banco" />
       <module name="PrograIII_2024_2.main" />
@@ -121,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ciaf.claseherencia05.ejemplo3.Main" />
+    <configuration name="SistemaTransporte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaTransporte.SistemaTransporte" />
       <module name="PrograIII_2024_2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ciaf.claseherencia05.ejemplo3.*" />
+          <option name="PATTERN" value="SistemaTransporte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemaTransporte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SistemaTransporte.SistemaTransporte" />
+    <configuration name="org.ciaf.jorge.ClaseProductos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ciaf.jorge.ClaseProductos.Main" />
       <module name="PrograIII_2024_2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SistemaTransporte.*" />
+          <option name="PATTERN" value="org.ciaf.jorge.ClaseProductos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.ciaf.jorge.ClaseProductos.Main" />
         <item itemvalue="Application.Banco" />
         <item itemvalue="Application.EjemploArrayList04" />
         <item itemvalue="Application.SistemaTransporte" />
         <item itemvalue="Application.org.ciaf.jorge.estadisticasdepersonajes.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
