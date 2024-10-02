@@ -1,5 +1,7 @@
 package org.ciaf.ejerciciosencapsulamiento.ejemploespecifico;
 
+import org.ciaf.ejerciciosencapsulamiento.ejemploespecifico.ClaseBase;
+
 // Clase desde donde se llaman los atributos y métodos de la clase base
 public class Main {
     public static void main(String[] args) {
@@ -9,8 +11,6 @@ public class Main {
         // Acceder a los atributos y métodos de la clase base
         System.out.println("Atributo público: " + objeto.atributoPublico);
         // El atributo privado no puede ser accedido desde esta clase
-
-       
         System.out.println("Atributo protegido: " + objeto.atributoProtegido);
         System.out.println("Atributo predeterminado: " + objeto.atributoPredeterminado);
 

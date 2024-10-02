@@ -12,6 +12,9 @@ class Motocicleta extends Vehiculo {
 
     @Override
     public double calcularVelocidadMaxima() {
+
+       // LOGICA DE NEGOCIO LIST
+
         return potencia / peso * 200; // Fórmula para calcular velocidad de motocicleta
     }
 }
