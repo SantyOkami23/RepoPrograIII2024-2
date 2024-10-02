@@ -9,6 +9,7 @@ abstract class Producto {
         this.precioBase = precioBase;
     }
 
+
     // Método abstracto que será implementado en las subclases
     public abstract double calcularPrecioFinal();
 
