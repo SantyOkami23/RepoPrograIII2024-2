@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06d6d91-e7a3-4373-82bc-006cea07580d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/jorge/ClaseProductos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/jorge/ClaseProductos/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/jorge/posibleParcial1/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,21 +79,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.RepoPrograIII2024-2 [:SistemaTransporte.SistemaTransporte.main()].executor": "Run",
-    "Gradle.RepoPrograIII2024-2 [:org.ciaf.clasearreglos03.EjemploArrayList04.main()].executor": "Run",
-    "Gradle.RepoPrograIII2024-2 [:org.ciaf.claseherencia05.ejemplo3.Main.main()].executor": "Run",
-    "Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.ClaseProductos.Main.main()].executor": "Run",
-    "Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.CuentaBancarias.Banco.main()].executor": "Run",
-    "Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.estadisticasdepersonajes.Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "jorge",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JP/Documents/PROGRAMACION EJERCICIOS/estadisticas de personajes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.RepoPrograIII2024-2 [:SistemaTransporte.SistemaTransporte.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.RepoPrograIII2024-2 [:org.ciaf.clasearreglos03.EjemploArrayList04.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.RepoPrograIII2024-2 [:org.ciaf.claseherencia05.ejemplo3.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.ClaseProductos.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.CuentaBancarias.Banco.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.RepoPrograIII2024-2 [:org.ciaf.jorge.estadisticasdepersonajes.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;jorge&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JP/Documents/PROGRAMACION EJERCICIOS/estadisticas de personajes&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.org.ciaf.jorge.ClaseProductos.Main">
     <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ciaf.jorge.CuentaBancarias.Banco" />

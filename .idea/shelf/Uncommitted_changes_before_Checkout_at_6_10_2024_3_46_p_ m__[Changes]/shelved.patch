@@ -1,0 +1,607 @@
+Index: .idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml	(revision 8e4722edcc7a4778c07214b97a10e75b13221c20)
++++ /dev/null	(revision 8e4722edcc7a4778c07214b97a10e75b13221c20)
+@@ -1,14 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]" date="1724804914410" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Merge at 27/08/2024 7:28 p. m. [Changes]" />
+-  <binary>
+-    <option name="BEFORE_PATH" value=".idea/sonarlint/securityhotspotstore/index.pb" />
+-    <option name="AFTER_PATH" />
+-    <option name="SHELVED_PATH" />
+-  </binary>
+-  <binary>
+-    <option name="BEFORE_PATH" value=".idea/sonarlint/issuestore/index.pb" />
+-    <option name="AFTER_PATH" />
+-    <option name="SHELVED_PATH" />
+-  </binary>
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch	(revision 8e4722edcc7a4778c07214b97a10e75b13221c20)
++++ /dev/null	(revision 8e4722edcc7a4778c07214b97a10e75b13221c20)
+@@ -1,321 +0,0 @@
+-Index: .idea/.gitignore
+-===================================================================
+-diff --git a/.idea/.gitignore b/.idea/.gitignore
+-deleted file mode 100644
+---- a/.idea/.gitignore	(revision d8d084ed15c05db519722873fa45604703b77df6)
+-+++ /dev/null	(revision d8d084ed15c05db519722873fa45604703b77df6)
+-@@ -1,8 +0,0 @@
+--# Default ignored files
+--/shelf/
+--/workspace.xml
+--# Editor-based HTTP Client requests
+--/httpRequests/
+--# Datasource local storage ignored files
+--/dataSources/
+--/dataSources.local.xml
+-Index: .idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml b/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910193)
+-+++ b/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml	(date 1724804910193)
+-@@ -0,0 +1,10 @@
+-+<component name="libraryTable">
+-+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.1" type="java-imported" external-system-id="GRADLE">
+-+    <properties groupId="org.junit.jupiter" artifactId="junit-jupiter-engine" version="5.8.1" />
+-+    <CLASSES>
+-+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.1/21b86e08aae2720bbf017703669948be96d1388c/junit-jupiter-engine-5.8.1.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: .idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml b/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910193)
+-+++ b/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml	(date 1724804910193)
+-@@ -0,0 +1,10 @@
+-+<component name="libraryTable">
+-+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.8.1" type="java-imported" external-system-id="GRADLE">
+-+    <properties groupId="org.junit.platform" artifactId="junit-platform-commons" version="1.8.1" />
+-+    <CLASSES>
+-+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.1/1e362cbe6d0f225b066757865e233972557484/junit-platform-commons-1.8.1.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: .idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml b/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910191)
+-+++ b/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml	(date 1724804910191)
+-@@ -0,0 +1,10 @@
+-+<component name="libraryTable">
+-+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2" type="java-imported" external-system-id="GRADLE">
+-+    <properties groupId="org.apiguardian" artifactId="apiguardian-api" version="1.1.2" />
+-+    <CLASSES>
+-+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: .idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml b/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910192)
+-+++ b/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml	(date 1724804910192)
+-@@ -0,0 +1,10 @@
+-+<component name="libraryTable">
+-+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.8.1" type="java-imported" external-system-id="GRADLE">
+-+    <properties groupId="org.junit.jupiter" artifactId="junit-jupiter-api" version="5.8.1" />
+-+    <CLASSES>
+-+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.1/6538b88eb8bf8811bc7b6efb5246f835c15e0bfe/junit-jupiter-api-5.8.1.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: .idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml b/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910194)
+-+++ b/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml	(date 1724804910194)
+-@@ -0,0 +1,10 @@
+-+<component name="libraryTable">
+-+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.8.1" type="java-imported" external-system-id="GRADLE">
+-+    <properties groupId="org.junit.platform" artifactId="junit-platform-engine" version="1.8.1" />
+-+    <CLASSES>
+-+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.1/e6c63bf990dc88a6527b4ed617b23e47048f07e0/junit-platform-engine-1.8.1.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: .idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml b/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910195)
+-+++ b/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml	(date 1724804910195)
+-@@ -0,0 +1,10 @@
+-+<component name="libraryTable">
+-+  <library name="Gradle: org.opentest4j:opentest4j:1.2.0" type="java-imported" external-system-id="GRADLE">
+-+    <properties groupId="org.opentest4j" artifactId="opentest4j" version="1.2.0" />
+-+    <CLASSES>
+-+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: .idea/misc.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"FrameworkDetectionExcludesConfiguration\">\r\n    <file type=\"web\" url=\"file://$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"11\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/misc.xml b/.idea/misc.xml
+---- a/.idea/misc.xml	(revision d8d084ed15c05db519722873fa45604703b77df6)
+-+++ b/.idea/misc.xml	(date 1724804910198)
+-@@ -1,12 +1,5 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+--  <component name="ComposerSettings">
+--    <execution />
+--  </component>
+--  <component name="ExternalStorageConfigurationManager" enabled="true" />
+--  <component name="FrameworkDetectionExcludesConfiguration">
+--    <file type="web" url="file://$PROJECT_DIR$" />
+--  </component>
+-   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+-     <output url="file://$PROJECT_DIR$/out" />
+-   </component>
+-Index: .idea/modules.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/modules.xml b/.idea/modules.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910198)
+-+++ b/.idea/modules.xml	(date 1724804910198)
+-@@ -0,0 +1,10 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="ProjectModuleManager">
+-+    <modules>
+-+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.iml" filepath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.iml" />
+-+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.main.iml" />
+-+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.test.iml" />
+-+    </modules>
+-+  </component>
+-+</project>
+-\ No newline at end of file
+-Index: .idea/libraries/gradle_wrapper.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/libraries/gradle_wrapper.xml b/.idea/libraries/gradle_wrapper.xml
+-new file mode 100644
+---- /dev/null	(date 1724804910196)
+-+++ b/.idea/libraries/gradle_wrapper.xml	(date 1724804910196)
+-@@ -0,0 +1,9 @@
+-+<component name="libraryTable">
+-+  <library name="gradle-wrapper">
+-+    <CLASSES>
+-+      <root url="jar://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar!/" />
+-+    </CLASSES>
+-+    <JAVADOC />
+-+    <SOURCES />
+-+  </library>
+-+</component>
+-\ No newline at end of file
+-Index: RepoPrograIII2024-2.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/RepoPrograIII2024-2.iml b/RepoPrograIII2024-2.iml
+-new file mode 100644
+---- /dev/null	(date 1724804910203)
+-+++ b/RepoPrograIII2024-2.iml	(date 1724804910203)
+-@@ -0,0 +1,11 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<module type="JAVA_MODULE" version="4">
+-+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-+    <exclude-output />
+-+    <content url="file://$MODULE_DIR$">
+-+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+-+    </content>
+-+    <orderEntry type="inheritedJdk" />
+-+    <orderEntry type="sourceFolder" forTests="false" />
+-+  </component>
+-+</module>
+-\ No newline at end of file
+-Index: .idea/vcs.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+---- a/.idea/vcs.xml	(revision d8d084ed15c05db519722873fa45604703b77df6)
+-+++ b/.idea/vcs.xml	(date 1724804910203)
+-@@ -1,6 +1,6 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+-   <component name="VcsDirectoryMappings">
+--    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-+    <mapping directory="" vcs="Git" />
+-   </component>
+- </project>
+-\ No newline at end of file
+-Index: .idea/modules/PrograIII_2024_2.main.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/modules/PrograIII_2024_2.main.iml b/.idea/modules/PrograIII_2024_2.main.iml
+-new file mode 100644
+---- /dev/null	(date 1724804910201)
+-+++ b/.idea/modules/PrograIII_2024_2.main.iml	(date 1724804910201)
+-@@ -0,0 +1,12 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<module external.linked.project.id="PrograIII_2024_2:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="org.ciaf" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+-+  <component name="NewModuleRootManager">
+-+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+-+    <exclude-output />
+-+    <content url="file://$MODULE_DIR$/../../src/main">
+-+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+-+    </content>
+-+    <orderEntry type="inheritedJdk" />
+-+    <orderEntry type="sourceFolder" forTests="false" />
+-+  </component>
+-+</module>
+-\ No newline at end of file
+-Index: .idea/modules/PrograIII_2024_2.test.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/modules/PrograIII_2024_2.test.iml b/.idea/modules/PrograIII_2024_2.test.iml
+-new file mode 100644
+---- /dev/null	(date 1724804910202)
+-+++ b/.idea/modules/PrograIII_2024_2.test.iml	(date 1724804910202)
+-@@ -0,0 +1,18 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<module external.linked.project.id="PrograIII_2024_2:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="org.ciaf" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+-+  <component name="NewModuleRootManager">
+-+    <output-test url="file://$MODULE_DIR$/../../build/classes/java/test" />
+-+    <exclude-output />
+-+    <content url="file://$MODULE_DIR$/../../src/test" />
+-+    <orderEntry type="inheritedJdk" />
+-+    <orderEntry type="sourceFolder" forTests="false" />
+-+    <orderEntry type="module" module-name="PrograIII_2024_2.main" />
+-+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.8.1" level="project" />
+-+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.8.1" level="project" />
+-+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+-+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+-+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.1" level="project" />
+-+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.8.1" level="project" />
+-+  </component>
+-+  <component name="TestModuleProperties" production-module="PrograIII_2024_2.main" />
+-+</module>
+-\ No newline at end of file
+-Index: .idea/modules/PrograIII_2024_2.iml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/modules/PrograIII_2024_2.iml b/.idea/modules/PrograIII_2024_2.iml
+-new file mode 100644
+---- /dev/null	(date 1724804910199)
+-+++ b/.idea/modules/PrograIII_2024_2.iml	(date 1724804910199)
+-@@ -0,0 +1,12 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<module external.linked.project.id="PrograIII_2024_2" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="org.ciaf" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+-+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-+    <exclude-output />
+-+    <content url="file://$MODULE_DIR$/../..">
+-+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+-+      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+-+    </content>
+-+    <orderEntry type="inheritedJdk" />
+-+    <orderEntry type="sourceFolder" forTests="false" />
+-+  </component>
+-+</module>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><changelist name=\"Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]\" date=\"1726013354746\" recycled=\"false\" toDelete=\"true\">\r\n  <option name=\"PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/shelved.patch\" />\r\n  <option name=\"DESCRIPTION\" value=\"Uncommitted changes before Update at 10/09/2024 7:09 p. m. [Changes]\" />\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/herencia/Motocicleta.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Motocicleta.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/herencia/Vehiculo.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vehiculo.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploHashMap06.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploHashMap06.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashMap06.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/file-system.probe\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/file-system.probe\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/file-system.probe\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/ListaDeTareas4.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/ListaDeTareas4.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ListaDeTareas4.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/PolimorfismoEjemplo.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/PolimorfismoEjemplo.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploEstructurasControl09.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploEstructurasControl09.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploEstructurasControl09.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/7.5.1/fileHashes/fileHashes.bin\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/7.5.1/fileHashes/fileHashes.bin\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.bin\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/buildOutputCleanup/buildOutputCleanup.lock\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/buildOutputCleanup/buildOutputCleanup.lock\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/buildOutputCleanup.lock\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/AdivinarNumero10.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/AdivinarNumero10.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/AdivinarNumero10.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/ContarCifrasEjercicio2.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/ContarCifrasEjercicio2.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasEjercicio2.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploHashset07.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploHashset07.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashset07.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/buildOutputCleanup/outputFiles.bin\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/buildOutputCleanup/outputFiles.bin\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/outputFiles.bin\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploExpresionesAreaCuadrado11.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploExpresionesAreaCuadrado11.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCuadrado11.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/7.5.1/fileHashes/fileHashes.lock\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/7.5.1/fileHashes/fileHashes.lock\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.lock\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/encapsulacion/Empleado01.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Empleado01.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/7.5.1/executionHistory/executionHistory.lock\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/7.5.1/executionHistory/executionHistory.lock\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.lock\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/CalculadoraDescuentos5.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/CalculadoraDescuentos5.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraDescuentos5.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/abstraccion/Forma.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Forma.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/7.5.1/fileHashes/resourceHashesCache.bin\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/7.5.1/fileHashes/resourceHashesCache.bin\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/resourceHashesCache.bin\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/VerificarPrimo9.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/VerificarPrimo9.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/VerificarPrimo9.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Vaca.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vaca.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/Factorial8.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/Factorial8.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Factorial8.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemplosOperadoresMatematicas05.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemplosOperadoresMatematicas05.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemplosOperadoresMatematicas05.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/RecepcionNombreHard.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/RecepcionNombreHard.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreHard.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Animal.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Animal.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/EjemploTiendaProductos.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/EjemploTiendaProductos.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploTiendaProductos.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/SaludoEjercicio1.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/SaludoEjercicio1.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/SaludoEjercicio1.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Gato.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Gato.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploArrayList04.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploArrayList04.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayList04.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploOperadoresLogicos06.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploOperadoresLogicos06.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploOperadoresLogicos06.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/RecepcionNombreBasico04.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/RecepcionNombreBasico04.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreBasico04.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/herencia/Automovil.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Automovil.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/ContarCifrasCicloEjercicio3.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/ContarCifrasCicloEjercicio3.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasCicloEjercicio3.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploVector02.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploVector02.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector02.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/Menu6.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/Menu6.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Menu6.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/ClimaApp3.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/ClimaApp3.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ClimaApp3.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\".gradle/7.5.1/executionHistory/executionHistory.bin\" />\r\n    <option name=\"AFTER_PATH\" value=\".gradle/7.5.1/executionHistory/executionHistory.bin\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.bin\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploArrayListString05.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploArrayListString05.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayListString05.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Perro.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Perro.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploVector01.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploVector01.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector01.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/tmp/compileJava/previous-compilation-data.bin\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/tmp/compileJava/previous-compilation-data.bin\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/previous-compilation-data.bin\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/abstraccion/Poligono.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Poligono.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploMatriz03.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasearreglos03/EjemploMatriz03.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploMatriz03.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploExpresionesAreaCirculo10.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/EjemploExpresionesAreaCirculo10.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCirculo10.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/CaracteresEspeciales03.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/clasesintaxis01/CaracteresEspeciales03.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CaracteresEspeciales03.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/CalculadoraImc9.class\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/claseciclosycondicionales02/CalculadoraImc9.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraImc9.class\" />\r\n  </binary>\r\n  <binary>\r\n    <option name=\"BEFORE_PATH\" />\r\n    <option name=\"AFTER_PATH\" value=\"build/classes/java/main/org/ciaf/conceptospoo04/herencia/Camion.class\" />\r\n    <option name=\"SHELVED_PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Camion.class\" />\r\n  </binary>\r\n</changelist>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml	(revision 8e4722edcc7a4778c07214b97a10e75b13221c20)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml	(date 1727830589421)
+@@ -2,12 +2,10 @@
+   <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/shelved.patch" />
+   <option name="DESCRIPTION" value="Uncommitted changes before Update at 10/09/2024 7:09 p. m. [Changes]" />
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/herencia/Motocicleta.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Motocicleta.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/herencia/Vehiculo.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vehiculo.class" />
+   </binary>
+@@ -27,7 +25,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ListaDeTareas4.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/PolimorfismoEjemplo.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/PolimorfismoEjemplo.class" />
+   </binary>
+@@ -77,7 +74,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.lock" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/encapsulacion/Empleado01.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Empleado01.class" />
+   </binary>
+@@ -92,7 +88,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraDescuentos5.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/abstraccion/Forma.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Forma.class" />
+   </binary>
+@@ -107,7 +102,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/VerificarPrimo9.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Vaca.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vaca.class" />
+   </binary>
+@@ -127,7 +121,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreHard.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Animal.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Animal.class" />
+   </binary>
+@@ -142,7 +135,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/SaludoEjercicio1.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Gato.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Gato.class" />
+   </binary>
+@@ -162,7 +154,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreBasico04.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/herencia/Automovil.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Automovil.class" />
+   </binary>
+@@ -197,7 +188,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayListString05.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/polimorfismo/Perro.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Perro.class" />
+   </binary>
+@@ -212,7 +202,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/previous-compilation-data.bin" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/abstraccion/Poligono.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Poligono.class" />
+   </binary>
+@@ -237,7 +226,6 @@
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraImc9.class" />
+   </binary>
+   <binary>
+-    <option name="BEFORE_PATH" />
+     <option name="AFTER_PATH" value="build/classes/java/main/org/ciaf/conceptospoo04/herencia/Camion.class" />
+     <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Camion.class" />
+   </binary>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c06d6d91-e7a3-4373-82bc-006cea07580d\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.name\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/RepoPrograIII2024-2.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/git_toolbox_blame.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.main.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.test.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/AdivinarNumero10.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Animal.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Automovil.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraDescuentos5.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraImc9.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Camion.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CaracteresEspeciales03.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ClimaApp3.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasCicloEjercicio3.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasEjercicio2.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayList04.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayListString05.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploEstructurasControl09.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCirculo10.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCuadrado11.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashMap06.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashset07.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploMatriz03.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploOperadoresLogicos06.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploTiendaProductos.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector02.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemplosOperadoresMatematicas05.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Empleado01.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Factorial8.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Forma.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Gato.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ListaDeTareas4.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Menu6.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Motocicleta.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Perro.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Poligono.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/PolimorfismoEjemplo.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreBasico04.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreHard.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/SaludoEjercicio1.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vaca.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vehiculo.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/VerificarPrimo9.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/buildOutputCleanup.lock\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.lock\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/file-system.probe\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.lock\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/outputFiles.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/previous-compilation-data.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/resourceHashesCache.bin\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/shelved.patch\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/RepoPrograIII2024-2.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/gradle.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/ciaf/ejemploclasefutura/ClaseMaster.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/ciaf/ejemploclasefutura/ClaseMaster.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"PrograIII_2024_2\" type=\"f1a62948:ProjectNode\" />\r\n              </path>\r\n            </expand>\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lapola\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;parisa194&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/SantyOkami23/RepoPrograIII2024-2.git&quot;,\r\n    &quot;accountId&quot;: &quot;ea2bf9e4-2ba1-4aa0-8908-dc6d420556ae&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;&quot;,\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2lGPr8pBTXukWZ86q8EPiBZ3tMw\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.Main\">\r\n    <configuration name=\"ContarCifrasCicloEjercicio3\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.ciaf.clasesintaxis01.ejerciciosclase01.ContarCifrasCicloEjercicio3\" />\r\n      <module name=\"PrograIII_2024_2.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.ciaf.clasesintaxis01.ejerciciosclase01.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.ciaf.claseherencia05.ejemplo3.Main\" />\r\n      <module name=\"PrograIII_2024_2.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.ciaf.claseherencia05.ejemplo3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"RepoPrograIII2024-2\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"RepoPrograIII2024-2\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.ContarCifrasCicloEjercicio3\" />\r\n        <item itemvalue=\"Application.ContarCifrasCicloEjercicio3\" />\r\n        <item itemvalue=\"Application.ContarCifrasCicloEjercicio3\" />\r\n        <item itemvalue=\"Application.ContarCifrasCicloEjercicio3\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c06d6d91-e7a3-4373-82bc-006cea07580d\" name=\"Changes\" comment=\"\" />\r\n      <created>1724803638916</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1724803638916</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8e4722edcc7a4778c07214b97a10e75b13221c20)
++++ b/.idea/workspace.xml	(date 1727832721178)
+@@ -5,84 +5,10 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="c06d6d91-e7a3-4373-82bc-006cea07580d" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/RepoPrograIII2024-2.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.main.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.test.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/AdivinarNumero10.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Animal.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Automovil.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraDescuentos5.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraImc9.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Camion.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CaracteresEspeciales03.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ClimaApp3.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasCicloEjercicio3.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasEjercicio2.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayList04.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayListString05.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploEstructurasControl09.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCirculo10.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCuadrado11.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashMap06.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashset07.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploMatriz03.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploOperadoresLogicos06.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploTiendaProductos.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector02.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemplosOperadoresMatematicas05.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Empleado01.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Factorial8.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Forma.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Gato.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ListaDeTareas4.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Menu6.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Motocicleta.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Perro.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Poligono.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/PolimorfismoEjemplo.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreBasico04.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreHard.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/SaludoEjercicio1.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vaca.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vehiculo.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/VerificarPrimo9.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/buildOutputCleanup.lock" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.lock" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/file-system.probe" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.lock" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/outputFiles.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/previous-compilation-data.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/resourceHashesCache.bin" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/shelved.patch" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/RepoPrograIII2024-2.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ciaf/ejemploclasefutura/ClaseMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejemploclasefutura/ClaseMaster.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -120,7 +46,7 @@
+     </option>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="lapola" />
++        <entry key="$PROJECT_DIR$" value="jorge" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -131,17 +57,20 @@
+     &quot;assignee&quot;: &quot;parisa194&quot;
+   }
+ }</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/SantyOkami23/RepoPrograIII2024-2.git&quot;,
+-    &quot;accountId&quot;: &quot;ea2bf9e4-2ba1-4aa0-8908-dc6d420556ae&quot;
+-  }
+-}</component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/SantyOkami23/RepoPrograIII2024-2.git",
++    "accountId": "3acd82ac-13a1-422b-8c43-fa691a94d643"
++  }
++}]]></component>
+   <component name="ProjectColorInfo">{
+   &quot;customColor&quot;: &quot;&quot;,
+   &quot;associatedIndex&quot;: 6
+ }</component>
+   <component name="ProjectId" id="2lGPr8pBTXukWZ86q8EPiBZ3tMw" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -151,7 +80,8 @@
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/JP/Documents/programacion/PARCIAL/ProyectoC3&quot;
+   }
+ }</component>
+   <component name="RunManager" selected="Application.Main">
+@@ -198,7 +128,7 @@
+       <list>
+         <item itemvalue="Application.Main" />
+         <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
+-        <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
++        <item itemvalue="Application.Main" />
+         <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
+         <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
+       </list>
