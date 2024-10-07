@@ -1,0 +1,17 @@
+Index: src/main/java/org/ciaf/ejerciciosherencia/ejerciciodos/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.ciaf.ejerciciosherencia.ejerciciodos;\r\n\r\nimport org.ciaf.ejerciciosherencia.ejerciciouno.Formato;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n\r\n        // Crear objetos Pelicula\r\n        Pelicula pelicula1 = new Pelicula(\"El caballero oscuro\", \"Christopher Nolan\", Formato.MOV, 152.0, \"Christian Bale\", \"Maggie Gyllenhaal\");\r\n        Pelicula pelicula2 = new Pelicula(\"Titanic\", \"James Cameron\", Formato.AVI, 195.0, \"Leonardo DiCaprio\", \"Kate Winslet\");\r\n        Pelicula pelicula3 = new Pelicula(\"John Wick\", \"Chad Stahelski\", Formato.MP4, 101.0, \"Keanu Reeves\", null); // Solo actor principal\r\n\r\n        // Mostrar detalles de las películas usando el método toString()\r\n        System.out.println(pelicula1.toString());\r\n        System.out.println(pelicula2.toString());\r\n        System.out.println(pelicula3.toString());\r\n\r\n        // Probar la excepción si actor y actriz son nulos\r\n        try {\r\n            Pelicula pelicula4 = new Pelicula(\"Película sin protagonistas\", \"Director Desconocido\", Formato.MPG, 90.0, null, null);\r\n        } catch (IllegalArgumentException e) {\r\n            System.out.println(\"Excepción capturada: \" + e.getMessage());\r\n        }\r\n    }\r\n}\r\n\r\n
+===================================================================
+diff --git a/src/main/java/org/ciaf/ejerciciosherencia/ejerciciodos/Main.java b/src/main/java/org/ciaf/ejerciciosherencia/ejerciciodos/Main.java
+--- a/src/main/java/org/ciaf/ejerciciosherencia/ejerciciodos/Main.java	(revision 666bbe33c40e9bcf4d80dd9707b58b3af665c790)
++++ b/src/main/java/org/ciaf/ejerciciosherencia/ejerciciodos/Main.java	(date 1727222508142)
+@@ -16,7 +16,7 @@
+         System.out.println(pelicula3.toString());
+ 
+         // Probar la excepción si actor y actriz son nulos
+-        try {
++        try {0
+             Pelicula pelicula4 = new Pelicula("Película sin protagonistas", "Director Desconocido", Formato.MPG, 90.0, null, null);
+         } catch (IllegalArgumentException e) {
+             System.out.println("Excepción capturada: " + e.getMessage());

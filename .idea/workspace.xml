@@ -5,84 +5,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06d6d91-e7a3-4373-82bc-006cea07580d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/RepoPrograIII2024-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/PrograIII_2024_2.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/AdivinarNumero10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Automovil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraDescuentos5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CalculadoraImc9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Camion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/CaracteresEspeciales03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ClimaApp3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasCicloEjercicio3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ContarCifrasEjercicio2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayList04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploArrayListString05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploEstructurasControl09.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCirculo10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploExpresionesAreaCuadrado11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashMap06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploHashset07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploMatriz03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploOperadoresLogicos06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploTiendaProductos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemploVector02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/EjemplosOperadoresMatematicas05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Empleado01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Factorial8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Forma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Gato.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/ListaDeTareas4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Menu6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Motocicleta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Perro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Poligono.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/PolimorfismoEjemplo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreBasico04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/RecepcionNombreHard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/SaludoEjercicio1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vaca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/Vehiculo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/VerificarPrimo9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_ m__[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RepoPrograIII2024-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseCuentaBancaria/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseCuentaBancaria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseEmpleado/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseEmpleado/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseEstudiante/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseEstudiante/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseProducto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseProducto/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseRectangulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosencapsulamiento/ClaseRectangulo/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ciaf/ejemploclasefutura/ClaseMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ciaf/ejemploclasefutura/ClaseMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_m___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_27_08_2024_7_28_p_ m__[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_7_09_p_m___Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploArrayList04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploArrayListString05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploHashMap06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploHashset07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploMatriz03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploVector01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjemploVector02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasearreglos03/EjerciciosPropuestos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/AdivinarNumero10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/CalculadoraDescuentos5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/CalculadoraImc9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/ClimaApp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/EjemploTiendaProductos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/Factorial8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/ListaDeTareas4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/Menu6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/TablaDeMultiPlicar7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/VerificarPrimo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseciclosycondicionales02/ejerciciosclase02/ResolverEjercicios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo1/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo1/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo3/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo3/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplo3/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplosinherencia/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplosinherencia/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplosinherencia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/claseherencia05/ejemplosinherencia/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/CaracteresEspeciales03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploCiclosBasico09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploEstructurasControl09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploExpresionesAreaCirculo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploExpresionesAreaCuadrado11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploOperadorCondicional08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploOperadoresLogicos06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemploVariables01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemplosOperadoresComparacion07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/EjemplosOperadoresMatematicas05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/RecepcionNombreBasico04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/RecepcionNombreHard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/TipoVariablesPeso02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/ContarCifrasCicloEjercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/ContarCifrasEjercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/clasesintaxis01/ejerciciosclase01/SaludoEjercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejemploclasefutura/ClaseMaster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejemploclasefutura/Ejemplo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejemploclasefutura/EjemploDos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejemploclasefutura/morcilla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/ejemploespecifico/ClaseBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/ejemploespecifico/ClaseBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/ejemploespecifico/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/ejemploespecifico/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/privado/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/privado/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/protegido/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/protegido/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/publico/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciosencapsulamiento/publico/Servidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/coninterfaz/Coche.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/coninterfaz/Coche.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/coninterfaz/Moto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/coninterfaz/Moto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/sininterfaz/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/sininterfaz/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/sininterfaz/Perro.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/fundamento/sininterfaz/Perro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/sistemavehiculos/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/sistemavehiculos/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/sistemavehiculos/Motocicleta.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/ciaf/ejerciciospolimorfismo/sistemavehiculos/Motocicleta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +118,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -120,7 +134,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lapola" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,21 +160,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.RepoPrograIII2024-2 [:org.ciaf.ejerciciosencapsulamiento.ClaseCuentaBancaria.Main.main()].executor": "Run",
+    "Gradle.RepoPrograIII2024-2 [:org.ciaf.ejerciciosencapsulamiento.ClaseEmpleado.Main.main()].executor": "Run",
+    "Gradle.RepoPrograIII2024-2 [:org.ciaf.ejerciciosencapsulamiento.ClaseEstudiante.Main.main()].executor": "Run",
+    "Gradle.RepoPrograIII2024-2 [:org.ciaf.ejerciciosencapsulamiento.ClaseProducto.Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "lapola",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="ContarCifrasCicloEjercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ciaf.clasesintaxis01.ejerciciosclase01.ContarCifrasCicloEjercicio3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ciaf.ejerciciosencapsulamiento.ClaseEstudiante.Main" />
       <module name="PrograIII_2024_2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ciaf.clasesintaxis01.ejerciciosclase01.*" />
+          <option name="PATTERN" value="org.ciaf.ejerciciosencapsulamiento.ClaseEstudiante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +186,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ciaf.claseherencia05.ejemplo3.Main" />
+    <configuration name="org.ciaf.ejerciciosencapsulamiento.ClaseCuentaBancaria.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ciaf.ejerciciosencapsulamiento.ClaseCuentaBancaria.Main" />
       <module name="PrograIII_2024_2.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ciaf.claseherencia05.ejemplo3.*" />
+          <option name="PATTERN" value="org.ciaf.ejerciciosencapsulamiento.ClaseCuentaBancaria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.ciaf.ejerciciosencapsulamiento.ClaseEmpleado.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ciaf.ejerciciosencapsulamiento.ClaseEmpleado.Main" />
+      <module name="PrograIII_2024_2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ciaf.ejerciciosencapsulamiento.ClaseEmpleado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.ciaf.ejerciciosencapsulamiento.ClaseProducto.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ciaf.ejerciciosencapsulamiento.ClaseProducto.Main" />
+      <module name="PrograIII_2024_2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ciaf.ejerciciosencapsulamiento.ClaseProducto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.ciaf.ejerciciosherencia.ejerciciotres.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ciaf.ejerciciosherencia.ejerciciotres.Main" />
+      <module name="PrograIII_2024_2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ciaf.ejerciciosherencia.ejerciciotres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,10 +254,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
-        <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
-        <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
-        <item itemvalue="Application.ContarCifrasCicloEjercicio3" />
+        <item itemvalue="Application.org.ciaf.ejerciciosencapsulamiento.ClaseProducto.Main" />
+        <item itemvalue="Application.org.ciaf.ejerciciosencapsulamiento.ClaseEmpleado.Main" />
+        <item itemvalue="Application.org.ciaf.ejerciciosencapsulamiento.ClaseCuentaBancaria.Main" />
+        <item itemvalue="Application.org.ciaf.ejerciciosherencia.ejerciciotres.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,5 +271,16 @@
       <updated>1724803638916</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ciaf/ejerciciosherencia/ejerciciodos/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
