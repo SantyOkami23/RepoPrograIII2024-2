@@ -1,0 +1,12 @@
+1. Sistema de gestión de vehículos
+Desarrolla un sistema de gestión de vehículos utilizando abstracción. Debe incluir las
+siguientes funcionalidades:
+Clase abstracta Vehiculo que represente un vehículo genérico con métodos como
+acelerar, frenar, etc.
+Clase concreta Automovil que extienda Vehiculo e incluya atributos específicos como
+modelo, año, velocidad máxima, etc.
+Clase concreta Camion que extienda Vehiculo e incluya atributos específicos como
+capacidad de carga, tipo de carga, etc.
+
+Clase GestorVehiculos que tenga una lista de vehículos y métodos para realizar ope-
+raciones como acelerar, frenar, etc.

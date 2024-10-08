@@ -1,0 +1,10 @@
+3. Sistema de gestión de cuentas bancarias
+Desarrolla un sistema simple de gestión de cuentas bancarias utilizando abstracción. Debe
+incluir las siguientes funcionalidades:
+Interfaz CuentaBancaria que defina métodos como depositar, retirar y consultarSaldo.
+Clase concreta CuentaCorriente que implemente CuentaBancaria e incluya atributos
+como saldo y límite de sobregiro.
+Clase concreta CuentaAhorro que implemente CuentaBancaria e incluya atributos
+como saldo y tasa de interés.
+Clase GestorCuentas que tenga una lista de cuentas bancarias y métodos para realizar
+operaciones como depositar, retirar y consultar saldo.
